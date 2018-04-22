@@ -1,0 +1,15 @@
+Ctrl+Shift+L: 删除当前行
+
+Ctrl+M,M: 隐藏或展开当前嵌套的折叠状态
+
+Ctrl+M,L: 隐藏或展开所有的折叠状态
+
+Ctrl+K+C: 注释
+
+Ctrl+K+U: 取消注释
+
+Ctrl+G: 跳转到指定的某一行 
+
+Ctrl+Z: 撤销
+
+Ctrl+Y: 反撤销
